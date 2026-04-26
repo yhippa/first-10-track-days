@@ -33,6 +33,13 @@ This is my attempt to fix that.
 
 ---
 
+## Then go deeper
+
+- [Thinking About Cars](02-thinking/thinking-about-cars.html)
+- [Choosing Track Days](02-thinking/choosing-track-days.html)
+
+---
+
 ## What this turns into
 
 If this resonates, the rest of the site walks through:
