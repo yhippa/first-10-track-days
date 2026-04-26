@@ -50,3 +50,7 @@ If this resonates, the rest of the site walks through:
 - how to avoid getting stuck  
 
 I’m adding to this over time, but it all builds in that direction.
+
+---
+
+Built from real track days. No sponsors, no shortcuts.

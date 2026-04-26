@@ -172,3 +172,9 @@ Not just which track.
 But what kind of day helps you learn the most.
 
 That’s what ends up mattering.
+
+---
+
+## Next
+
+- [What Progression Actually Looks Like](../03-progression/what-progression-looks-like.html)
