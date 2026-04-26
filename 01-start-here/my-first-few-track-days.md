@@ -121,3 +121,9 @@ But I would have been more deliberate about a few things:
 None of this is complicated, but it’s easy to overlook when everything is new.
 
 If you can avoid a few of these, you’ll get more out of your early track days than I did.
+
+---
+
+## Next
+
+- [What Actually Matters](what-actually-matters.html)
