@@ -27,6 +27,7 @@ This is my attempt to fix that.
 
 ## Start here
 
+- [How I Got Into Track Days](01-start-here/how-i-got-into-track-days.html)
 - [My First Few Track Days (What I Got Wrong)](01-start-here/my-first-few-track-days.html)
 - [What Actually Matters](01-start-here/what-actually-matters.html)
 

@@ -148,3 +148,9 @@ Leave each session with one thing to work on.
 That’s enough to get a lot out of your first few track days.
 
 Everything else can come later.
+
+---
+
+## Next
+
+- [Thinking About Cars](../02-thinking/thinking-about-cars.html)
