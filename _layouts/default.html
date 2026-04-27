@@ -19,7 +19,14 @@
 </head>
 
 <body>
-  {% include header.html %}
+  <header class="site-header">
+    <a href="/" class="logo">First 10 Track Days</a>
+    <nav>
+      <a href="/">Start Here</a>
+      <a href="/03-progression/">Journey</a>
+      <a href="/04-practical/">Basics</a>
+    </nav>
+  </header>
 
   <main class="page-content">
     <div class="wrapper">
@@ -27,7 +34,9 @@
     </div>
   </main>
 
-  {% include footer.html %}
+  <footer style="padding: 40px; text-align: center; color: #777;">
+    <p>© {{ site.time | date: "%Y" }} First 10 Track Days</p>
+  </footer>
 </body>
 </html>
 
