@@ -1,31 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
   <head>
-    {% include head.html %}
-
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B290WQ19E5"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-B290WQ19E5');
-    </script>
-
-    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
   </head>
 
-  <body>
-    {% include header.html %}
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B290WQ19E5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-B290WQ19E5');
+  </script>
 
-    <main class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+</head>
 
-    {% include footer.html %}
-  </body>
+<body>
+  {% include header.html %}
+
+  <main class="page-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  {% include footer.html %}
+</body>
 </html>
 
 <!DOCTYPE html>
@@ -34,13 +37,13 @@
   <meta charset="UTF-8">
 
   <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B290WQ19E5"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-B290WQ19E5');
-    </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-B290WQ19E5"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-B290WQ19E5');
+  </script>
 
   <title>{{ page.title }}</title>
 
@@ -117,13 +120,13 @@
 
 <body>
 
-<header>
-  First 10 Track Days
-</header>
+  <header>
+    First 10 Track Days
+  </header>
 
-<main>
-  {{ content }}
-</main>
+  <main>
+    {{ content }}
+  </main>
 
 </body>
 </html>
