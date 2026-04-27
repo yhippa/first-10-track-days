@@ -1,9 +1,3 @@
-
----
-layout: default
-title: The First 10 Track Days
----
-
 # The First 10 Track Days
 
 Most people’s first track day feels random.
