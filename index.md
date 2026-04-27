@@ -1,4 +1,9 @@
-Most people’s first track day feels random.
+---
+layout: default
+title: The First 10 Track Days
+---
+
+Most people’s first time driving their car on a racetrack—a track day—feels random.
 
 You show up, do what you’re told, drive as best you can, and leave thinking:
 
@@ -14,7 +19,7 @@ Why do some days feel better than others?
 
 There’s a lot of information out there, but not much of it helps you answer those questions in a straightforward way.
 
-This is my attempt to fix that.
+This is my attempt to make that a little clearer, based on what I’ve figured out so far.
 
 ---
 
@@ -26,7 +31,7 @@ This is my attempt to fix that.
 
 ---
 
-## Then go deeper
+## If you keep going
 
 - [Thinking About Cars](02-thinking/thinking-about-cars.html)
 - [Choosing Track Days](02-thinking/choosing-track-days.html)
@@ -46,4 +51,4 @@ I’m adding to this over time, but it all builds in that direction.
 
 ---
 
-Built from real track days. No sponsors, no shortcuts.
+This is all based on real track days. No sponsors, no shortcuts.
