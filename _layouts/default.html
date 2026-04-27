@@ -27,3 +27,103 @@
     {% include footer.html %}
   </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+
+  <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B290WQ19E5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-B290WQ19E5');
+    </script>
+
+  <title>{{ page.title }}</title>
+
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9fafb;
+      color: #111;
+    }
+
+    header {
+      padding: 20px 40px;
+      font-weight: bold;
+    }
+
+    .hero {
+      padding: 80px 40px;
+      max-width: 800px;
+    }
+
+    h1 {
+      font-size: 48px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      color: #555;
+      line-height: 1.6;
+    }
+
+    .btn-primary {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background: #111;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 20px;
+      padding: 40px;
+    }
+
+    .card {
+      display: block;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      text-decoration: none;
+      color: inherit;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      transition: 0.2s;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+    }
+
+    .progression {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 20px;
+      padding: 40px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+<header>
+  First 10 Track Days
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+</body>
+</html>

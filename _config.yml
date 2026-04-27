@@ -1,5 +1,12 @@
-title: The First 10 Track Days
-description: A practical, real-world guide to your first track days — what matters, what doesn’t, and how to actually improve.
-theme: minima
-url: "https://first10trackdays.com"
-author: Richard
+title: First 10 Track Days
+markdown: kramdown
+permalink: pretty
+collections:
+  start:
+    output: true
+  thinking:
+    output: true
+  progression:
+    output: true
+  practical:
+    output: true
