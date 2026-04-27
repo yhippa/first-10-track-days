@@ -1,5 +1,3 @@
-# The First 10 Track Days
-
 Most people’s first track day feels random.
 
 You show up, do what you’re told, drive as best you can, and leave thinking:
